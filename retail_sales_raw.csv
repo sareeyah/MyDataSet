@@ -1,0 +1,12 @@
+order_id,customer_id,gender,age,order_date,product_category,sales,region
+1001,C001,Male,25,2023-01-05,Electronics,1200,East
+1002,C002,female,32,2023-01-07,Clothing,250,West
+1003,C003,M,45,2023-01-08,Electronics,3200,East
+1004,C004,F,29,2023-01-09,Home,180,South
+1005,C005,Male,-3,2023-01-10,Clothing,90,North
+1006,C006,Female,130,2023-01-11,Electronics,5400,West
+1007,C007,male,41,2023-13-01,Home,300,South
+1008,C008,,35,2023-01-14,Clothing,,East
+1008,C008,,35,2023-01-14,Clothing,,East
+1009,C009,Female,27,2023-01-16,Electronics,99999,North
+1010,C010,Male,38,2023-01-18,Toys,150,East
